@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21432658)
 # C언어 미니 프로젝트 🚀 (35점 만점)
 
 이 저장소는 4차시 C언어 미니 프로젝트를 위한 템플릿입니다. 여러분은 이 템플릿을 바탕으로 자신만의 프로젝트를 완성하게 됩니다.
